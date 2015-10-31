@@ -31,9 +31,9 @@ STRINGS = {
 
 STATIC_STREAMS = (
     {
-        'title': 'The All Sports Links',
+        'title': 'CARIBBEAN TV CHANNELS',
         'logo': 'Hushamallsports.jpg',
-        'stream_url': ('https://raw.githubusercontent.com/hmemar/husham.com/master/'
+        'stream_url': ('https://raw.githubusercontent.com/jamworld/tv/master/m3u/carib.m3u'
                        'Lists/allsports.m3u'),
     }, {
         'title': 'Sports ACE Stream Links',
